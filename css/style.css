@@ -12,23 +12,131 @@ font-family: "Roboto", sans-serif
 color: #434455
 background-color: #FFFFFF
 }
-.logotype span{
+
+.logotype{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:#4d5ae5
+}
+.logotype span {
     color: #2e2f42;
 }
-.logotype{
-font-family: 'Raleway', sans-serif;
-font-size: 18px;
-font-weight: 700;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #4d5ae5;
-}
+
+
 .link{
-font-family: Roboto;
-font-size: 16px;
-font-weight: 500;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color:#2e2f42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#2e2f42
 }
+
+.address{
+    font-style: normal;
+
+}
+
+.section1{
+    background-color:#2e2f42
+}
+
+.section1 h1{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color:#ffffff
+}
+
+.section1 button{
+    background-color:#4D5AE5;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+.section2 h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42
+}
+
+.section2 p{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455
+}
+
+.section3{
+    background-color:#F4F4FD
+}
+
+.section3 h2{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42
+}
+
+
+
+
+
+.section3 ul{
+    background-color: #FFFFFF
+}
+.section3 h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+.section3 p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+}
+
+.section4 h2{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:#2e2f42
+}
+
+.section4 h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+
+.section4 p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455
+}
+
+
+footer{
+    background-color:#2e2f42;
+}
+.footer link{}
