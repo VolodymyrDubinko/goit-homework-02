@@ -8,9 +8,9 @@ button{
     cursor: pointer;
 }
 body{
-font-family: "Roboto", sans-serif
-color: #434455
-background-color: #FFFFFF
+font-family: "Roboto", sans-serif;
+color: #434455;
+background-color: #FFFFFF;
 }
 
 .logotype{
@@ -21,7 +21,7 @@ background-color: #FFFFFF
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color:#4d5ae5
+    color:#4d5ae5;
 }
 .logotype span {
     color: #2e2f42;
@@ -33,16 +33,15 @@ background-color: #FFFFFF
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color:#2e2f42
+    color:#2e2f42;
 }
 
 .address{
     font-style: normal;
-
 }
 
 .section1{
-    background-color:#2e2f42
+    background-color:#2e2f42;
 }
 
 .section1 h1{
@@ -50,12 +49,12 @@ background-color: #FFFFFF
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
-    color:#ffffff
+    color:#ffffff;
 }
 
 .section1 button{
     background-color:#4D5AE5;
-    font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -63,22 +62,30 @@ background-color: #FFFFFF
     color: #ffffff;
 }
 
-.section2 h3{
+button:hover {
+    background-color: #404BBF;
+}
+
+button:focus {
+    background-color: #404BBF;
+}
+
+.section2 h3, ul{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color:#2e2f42
+    color:#2e2f42;
 }
 
 .section2 p{
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455
+    color: #434455;
 }
 
 .section3{
-    background-color:#F4F4FD
+    background-color:#F4F4FD;
 }
 
 .section3 h2{
@@ -87,7 +94,7 @@ background-color: #FFFFFF
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: #2e2f42
+    color: #2e2f42;
 }
 
 
@@ -95,7 +102,7 @@ background-color: #FFFFFF
 
 
 .section3 ul{
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 .section3 h3{
     font-weight: 500;
@@ -117,7 +124,7 @@ background-color: #FFFFFF
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color:#2e2f42
+    color:#2e2f42;
 }
 
 .section4 h3{
@@ -132,7 +139,7 @@ background-color: #FFFFFF
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color:#434455
+    color:#434455;
 }
 
 
