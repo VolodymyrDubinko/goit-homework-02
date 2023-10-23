@@ -35,7 +35,9 @@ background-color: #FFFFFF;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.link :hover,
+.link :hover {
+    color: #404bbf
+}
 .link :focus {
     color: #404bbf
 }
@@ -83,6 +85,7 @@ button:focus {
 }
 
 .section-futures p{
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
@@ -102,7 +105,7 @@ button:focus {
 }
 
 
-.section-team ul{
+.section-team img{
     background-color: #FFFFFF;
 }
 .section-team h3{
