@@ -90,7 +90,7 @@ button:focus {
 
 
 
-.section-futures strategy{
+.section-futures ul, h3{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -98,7 +98,7 @@ button:focus {
     color:#2e2f42;
 }
 
-.section-futures description{
+.section-futures p{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
