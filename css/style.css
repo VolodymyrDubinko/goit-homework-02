@@ -94,10 +94,10 @@ color: #404BBF;
 .hero-title{
     text-align: center;
     font-family: Roboto;
-    font-size: 3.1;
+    font-size: 56px;
     font-weight: 700;
-    line-height: 3.3em;
-    letter-spacing: 0.06;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
     color:#FFF;
 }
 
@@ -110,6 +110,16 @@ color: #404BBF;
     letter-spacing: 0.04em;
     color: #ffffff;
 }
+
+
+
+
+
+
+
+
+
+
 
 button:hover,
 button:focus {
@@ -137,26 +147,43 @@ button:focus {
     color:#434455;
 }
 
+
+
+
+
+
+
 .section-team{
-    background-color:#F4F4FD;
+    background-color: #F4F4FD;
 }
 
 .team {
     text-align: center;
     font-family: Roboto;
-    font-size: 2;
+    font-size: 36px;
     font-weight: 700;
-    line-height: 2.2em;
-    letter-spacing: 0.04;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     color:#2E2F42;
 }
-
-
-.section-team img{
+.list {
     background-color: #FFFFFF;
 }
 
+
+
+
+.portfolio {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
 .h3-#2 {
     text-align: center;
     font-family: Roboto;
@@ -178,16 +205,7 @@ button:focus {
 
 
 
-.portfolio {
-    text-align: center;
-    font-family: Roboto;
-    font-size: 2;
-    font-weight: 700;
-    line-height: 2.2em;
-    letter-spacing: 0.04;
-    text-transform: capitalize;
-    color: #2E2F42;
-}
+
 
 .footer{
     background-color:#2e2f42;
@@ -215,7 +233,7 @@ button:focus {
     font-family: Roboto;
     font-size: 0.8;
     font-weight: 400;
-    line-height: 1.3em;
-    letter-spacing: 0.01;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color:#F4F4FD;
 }
