@@ -35,17 +35,20 @@ background-color: #FFFFFF;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-
+.link :hover,
+.link :focus {
+    color: #404bbf
+}
 
 .address{
     font-style: normal;
 }
 
-.section1{
+.section-hero{
     background-color:#2e2f42;
 }
 
-.section1 h1{
+.section-hero h1{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -53,7 +56,7 @@ background-color: #FFFFFF;
     color:#ffffff;
 }
 
-.section1 button{
+.section-hero button{
     background-color:#4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -71,7 +74,7 @@ button:focus {
     background-color: #404BBF;
 }
 
-.section2 ul, h3{
+.section-futures ul, h3{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -79,17 +82,17 @@ button:focus {
     color:#2e2f42;
 }
 
-.section2 p{
+.section-futures p{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.section3{
+.section-team{
     background-color:#F4F4FD;
 }
 
-.section3 h2{
+.section-team h2{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -99,24 +102,24 @@ button:focus {
 }
 
 
-.section3 ul{
+.section-team ul{
     background-color: #FFFFFF;
 }
-.section3 h3{
+.section-team h3{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.section3 p{
+.section-team p{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
 }
 
-.section4 h2{
+.section-portfolio h2{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -125,7 +128,7 @@ button:focus {
     color:#2e2f42;
 }
 
-.section4 h3{
+.section-portfolio h3{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -133,7 +136,7 @@ button:focus {
     color:#2e2f42;
 }
 
-.section4 p{
+.section-portfolio p{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -141,7 +144,7 @@ button:focus {
 }
 
 
-footer{
+.footer{
     background-color:#2e2f42;
 }
 .footer logotype{
